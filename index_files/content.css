@@ -1,0 +1,1848 @@
+@charset "UTF-8";
+.mapHolder {
+	margin: 0px;
+	padding: 0px;
+}
+.RightArea {
+
+
+	float: right;
+	width: 330px;
+	max-width: 330px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.RightA {
+	width: 145px;
+	border: 1px #ccc solid;
+	float: left;
+
+}
+
+.RightAnoBorder {
+	width: 145px;
+
+	float: left;
+	
+}
+
+
+.RightA1 {
+	width: 130px;
+
+	float: left;
+	
+}
+.RightB {
+	float: right;
+	width: 145px;
+	border: 1px #ccc solid;
+	
+}
+.RightBnoBorder {
+	float: right;
+	width: 145px;
+
+	background-image: url("../graphics/buttons/caroussel_buttons/hover/Greece_forecasts.png"); 
+	background-repeat: no-repeat; 
+	background-position: -1000px -1000px;
+}
+.RightB1 {
+	float: right;
+	width: 154px;
+
+}
+.RightAa {
+	width: 145px;
+	border: 1px #ccc solid;
+	float: left;
+	background-color: #d7eee2;
+	
+	
+}
+.RightfullAa {
+margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 20px;
+	width: 300px;
+	border: 1px #ccc solid;
+text-align:center;
+	background-color: #d7eee2;
+	
+	
+}
+.RightBa {
+	float: right;
+	width: 145px;
+	border: 1px #ccc solid;
+	
+}
+.RightFull {
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+.RightFullCameras {
+	margin-top:15px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+.RightMoon {
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 20px;
+	width: 300px;
+	text-align: center;
+	background-color: #00004a;
+	border: 1px #ccc solid;
+}
+.RightBannerFirst {
+	border: 1px solid #CCCCCC;
+	width: 300px;
+	height: 250px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:transparent;
+}
+.RightBanner {
+	border: 1px solid #cccccc;
+	width: 300px;
+	height: 250px;
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.greecemap {
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.article {
+
+	border: 1px solid #ccc;
+	background-color: #E8E8E8;
+	margin-top: 5px;
+	margin-bottom:15px;
+
+}
+.article .titlos {
+	
+	color: #fff;
+	text-align: center;
+	font-weight: bold;
+	padding: 4px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-top-color: #ccc;
+	border-bottom-color: #ccc;
+	background-color: #545454;
+}
+.article .content {
+	
+	padding: 8px;
+	overflow: auto;
+	text-align: justify;
+}
+.dailyText {
+	border: 1px solid #ccc;
+
+	
+}
+.dailyText .titlos {
+	
+	color: #fff;
+	text-align: center;
+	font-weight: bold;
+	padding: 4px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-top-color: #ccc;
+	border-bottom-color: #ccc;
+	background-color: #545454;
+}
+.dailyText .titlos2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	padding: 4px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-top-color: #ccc;
+	border-bottom-color: #ccc;
+	background-color: #99CC33;
+}
+.dailyText .content {
+	
+	font-size: 12px;
+	padding: 8px;
+	overflow: auto;
+}
+.LeftArea {
+	float: left;
+	width: 654px;
+	margin-left:15px;
+	margin-top:15px;
+	margin-bottom:15px;
+}
+.LeftA {
+	width: 155px;
+	clear: left;
+	float: left;
+}
+.LeftA1 {
+	width: 241px;
+	clear: left;
+	float: left;
+}
+.LeftB {
+	margin-left: 30px;
+	margin-right:-15px;
+	
+	float: left;
+	width: 482px;
+	height: 470px;
+	/*border: 1px solid #CCC;*/
+	overflow: auto;
+	margin-bottom: 0;
+	
+	zoom: 1;
+position: relative;
+	
+}
+.LeftB1 {
+display:none;
+	float: left;
+	width: 393px;
+	
+	/*border: 1px solid #CCC;*/
+	overflow:hidden;
+	margin-bottom: 0;
+	margin-left:20px;
+
+}
+
+
+.LeftA2 {
+	width: 420px;
+	clear: left;
+	float: left;
+
+		overflow: auto;
+}
+
+.LeftB2 {
+
+	float: left;
+margin-left:10px;
+
+	
+	margin-bottom: 0;
+
+
+}
+.tdABorder {
+	padding: 2px;
+	border: 1px solid #333;
+}
+.container .mainContent .LeftArea .article .content img {
+	float: left;
+	border: 1px solid #3F3F3F;
+	margin-left: 10px;
+	margin-right: 15px;
+	margin-top: 10px;
+}
+.container .mainContent .LeftArea .article .content {
+	margin: 4px;
+}
+.container .mainContent .LeftArea .article .content a img {
+	margin: 4px;
+	float: right;
+	border: 0px;
+}
+.container .mainContent .LeftArea .article .content p:first-of-type::first-letter {
+	font-size: 36px;
+	font-weight: bold;
+	color: #900;
+}
+
+.container1 .mainContent .LeftArea .article .content img {
+	float: left;
+	border: 1px solid #3F3F3F;
+	margin-left: 10px;
+	margin-right: 15px;
+	margin-top: 10px;
+}
+.container1 .mainContent .LeftArea .article .content {
+	margin: 4px;
+}
+.container1 .mainContent .LeftArea .article .content a img {
+	margin: 4px;
+	float: right;
+	border: 0px;
+}
+.container1 .mainContent .LeftArea .article .content p:first-of-type::first-letter {
+	font-size: 36px;
+	font-weight: bold;
+	color: #900;
+}
+.formfieldsTextArea {
+	font-family: "Trebuchet MS", Verdana, Tahoma;
+	color: #003399;
+	font-size: 12px;
+	background-color: #E0E0E0;
+	border: 1 inset #CCCCCC;
+	letter-spacing: 0.15em;
+	margin-left: 5px;
+	margin-top: 0px;
+	padding: 3px;
+	z-index: 100;
+	margin-right: 3px;
+}
+.posA {
+	margin-left: 5px;
+	margin-bottom: 6px;
+	text-align: left;
+	width: 152px;
+	font-size: 10px;
+	color: #069;
+}
+#subdate {
+	margin-right: 10px;
+	text-align: right;
+	font-size: 0.85em;
+	color: #666;
+}
+.sansimeraContainer {
+	border: 1px #ccc solid;
+	margin: 15px;
+}
+.sansimera {
+	padding: 5px;
+	text-align: left;
+	color: #000;
+	font-size: 12px;
+	text-align: center;
+	background-color: #eee;
+}
+.sshead {
+	background-color: #FFC;
+	border-bottom: 1px #ccc solid;
+	padding: 4px;
+	text-align: center;
+}
+.banner-150top {
+border: 1px #CCC solid;
+
+}
+.banner-150bottom {
+	margin-top:50px;
+	border: 1px #CCC solid;
+
+}
+.cities {
+	width: 120px;
+	max-width: 120px;
+	min-width: 120px;
+	margin-bottom: 10px;
+	margin-right: 5px;
+	margin-left: 10px;
+	
+}
+.citiesSearch{
+	background-image: url(../graphics/designelements/search_magnifier.png);
+	background-repeat: no-repeat;
+	background-position: 196px center;
+	background-color:#0071BC; 
+	color:#FFF; 
+	 padding:3px;
+	  font-size:13px; 
+	  width:210px;
+	
+}
+.TabG { /* for cells*/
+	border: 1px #CCCCCC solid;
+	font-size: 10px;
+	color: #333333;
+	text-align: center;
+	padding: 1px;
+}
+.TabG a{text-decoration:none;
+	color: #333333;}
+	.TabG a:hover{text-decoration:none;
+	color: #09F;}
+	.TabG a:visited{text-decoration:none;
+	color: #09F;}	
+	
+.TabGA { /* for cells*/
+	border: 1px #CCCCCC solid;
+	font-size: 10px;
+	color: #333333;
+	text-align: center;
+	background-color: #eee;
+	padding: 1px;
+}
+.TabGA a{text-decoration:none;
+	color: #333333;}
+	
+	.TabGA a:hover{text-decoration:none;
+	color: #09F;}
+.TabGhead { /* for cells*/
+	border: 1px #CCCCCC solid;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000;
+	text-align: center;
+	background-color: #F90;
+	padding: 2px;
+}
+.TabGAhead { /* for cells*/
+	border: 1px #CCCCCC solid;
+	font-size: 12px;
+	font-weight: bold;
+	color: #fff;
+	text-align: center;
+	background-color: #0071BC;
+	padding: 2px;
+}
+.TabGAhead a{ /* for cells*/
+	text-decoration:none;
+	color:#fff;
+}
+.innoplayerA {
+	display: block;
+}
+.innoplayerHead {
+	color: #000;
+	background-color: #99CC33;
+	border-bottom: 1px #000 solid;
+	padding: 4px;
+
+}
+.innobody {
+	text-align: center;
+}
+.photoreal {
+	float: left;
+	width: 180px;
+	margin-top: 0px;
+margin-left:20px;
+	padding-top: 5px;
+	padding-left: 6px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	margin-bottom:15px;
+
+}
+.photorealPhoto {
+	padding-bottom: 5px;
+	margin-left: 3px;
+}
+.photo1 {
+	position: absolute;
+	border: 1px solid #777777;
+	-webkit-box-shadow: 0 0 5px #666666;
+	-moz-box-shadow: 0 0 5px #666666;
+	box-shadow: 0 0 5px #666666;
+}
+.photo2 {
+	position: absolute;
+	border: 1px solid #777777;
+	-webkit-box-shadow: 0 0 5px #666666;
+	-moz-box-shadow: 0 0 5px #666666;
+	box-shadow: 0 0 5px #666666;
+}
+.photorealText {
+	font-size: 10px;
+	text-align:center;
+}
+.infographics {
+	border: 1px #ccc solid;
+	margin: 15px;
+}
+.infohead {
+	background-color: #6CF;
+	border-bottom: 1px #ccc solid;
+	padding: 5px;
+	font-size: 13px;
+	color: #000;
+	text-align: center;
+}
+.infohead a {
+	text-decoration: none;
+	color: #000;
+}
+.infoitemhead {
+	padding: 4px;
+	font-size: 12px;
+	margin-bottom: 4px;
+	text-align: center;
+	border: 1px #ccc solid;
+}
+.uvIntex {
+	text-decoration: none;
+	color: #000;
+}
+.uvIntexHead {
+	background-color: #FF0;
+	border-bottom: 1px #ccc solid;
+	padding: 4px;
+	margin-bottom: 4px;
+	text-align: center;
+}
+A.bottomlink:link {
+	color: #0099FF;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	text-align: center;
+	text-decoration: none;
+}
+A.menu3:link {
+	color: #003366;
+}
+A.menu3 {
+	font-family: "Trebuchet MS", Verdana, Tahoma;
+	font-size: 11px;
+	text-align: left;
+	text-decoration: none;
+}
+.topButtons {
+	float: left;
+}
+.fxT {
+	color: #FFFFFF;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 28px;
+	text-shadow: 1px 1px #000000;
+}
+.topButtons {
+	float: right;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-top:-35px;
+	position:relative;
+	zoom:1;
+
+}
+.alertButtons {
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-top:-35px;  
+	position:relative;
+	zoom:1;
+
+}
+.forecastsTable {
+clear: left;
+	float: left;}
+
+.TRstyle1 {
+	background-color: #EEEeee;
+}
+.TRstyle1TRstyle1 {
+	background-color: #FFC;
+}
+.TRstyle0TRstyle0{
+	background-color: #FFFFFF;
+}
+.second1{
+		background-color: #DDD;
+}
+.second1second1{
+background-color: #CCC;	
+}
+.second1second1second1{
+background-color: #ffffff;	
+}
+.DateHead {
+	text-align: center;
+	width: 80px;
+	border: 1px #ccc solid;
+	font-size:13px;
+}
+.innerTableNoBorder{
+	text-align: center;
+	font-size: 12px;
+	padding:2px;
+}
+.innerTableCell {
+	border: 1px solid #CCC;
+	text-align: center;
+	font-size: 12px;
+	padding:2px;
+}
+
+.innerTableCell a {
+	text-decoration:none;
+	color:#039;
+}
+
+.innerTableCellLeft {
+	border: 1px solid #B0B0B0;
+	text-align:left;
+	font-size: 12px;
+}
+
+.innerTableCellLeft a {
+	text-decoration:none;
+	color:#039;
+}
+.innerTableCellLeftA {
+	border: 1px solid #B0B0B0;
+	text-align:left;
+	font-size: 12px;
+	padding-left:15px;
+	padding-right:10px;
+}
+
+.innerTableCellLeftA a {
+	text-decoration:none;
+	color:#039;
+}
+.nefosititle {
+	min-width: 139px;
+	max-width: 139px;
+	width: 139px;
+	
+}
+.stationTemperature {
+	min-width: 37px;
+	max-width: 37px;
+	width: 37px;
+	font-size:15px;
+	font-weight:bold;
+	color:#1F527B;
+	
+	 /*  -webkit-font-smoothing: antialiased;
+    /*text-shadow: 1px 1px 1px rgba(0,113,188,0.3);*/
+	/*text-shadow: 0px 0px 1px rgba(0,0,0,0.5);*/
+}
+.temperature {
+	min-width: 50px;
+	max-width: 50px;
+	width: 50px;
+	font-size:16px;
+	font-weight:bold;
+	color:#1F527B;
+	
+	 /*  -webkit-font-smoothing: antialiased;
+    /*text-shadow: 1px 1px 1px rgba(0,113,188,0.3);*/
+	/*text-shadow: 0px 0px 1px rgba(0,0,0,0.5);*/
+}
+.t9{
+	font-size:12px;
+	font-weight:normal;}
+	.smallcelcius{
+		font-size:10px;
+		font-weight:normal
+		
+		
+		}
+.temperatureSea {
+	min-width: 35px;
+	max-width: 35px;
+	width: 35px;
+	font-size:14px;
+	
+	
+	 /*  -webkit-font-smoothing: antialiased;
+    /*text-shadow: 1px 1px 1px rgba(0,113,188,0.3);*/
+	/*text-shadow: 0px 0px 1px rgba(0,0,0,0.5);*/
+}
+.pressure{min-width: 40px;
+	max-width: 40px;
+	width: 40px;}
+.celcius{
+font-weight:300;
+font-size:13px;}
+.time {
+	min-width: 50px;
+	max-width: 50px;
+	width: 50px;
+}
+.timetext {
+	min-width: 34px;
+	max-width: 34px;
+	width: 34px;
+}
+.humidity {
+	min-width: 38px;
+	max-width: 38px;
+	width: 38px;
+	font-size:12px;
+}
+.mpofor {
+	min-width: 60px;
+	max-width: 60px;
+	width: 60px;
+}
+.mpoforSeas {
+	min-width: 60px;
+	max-width: 60px;
+	width: 60px;
+}
+
+.phenomeno-graphic{
+	min-width: 60px;
+	max-width: 60px;
+	width: 60px;
+	
+	}
+	
+	.windicon{
+	min-width: 60px;
+	max-width: 60px;
+	width: 60px;
+	
+	}
+.mpoforSeasApnoia {
+	
+	
+}
+.bfr{
+
+	    color: #1F527B;
+    font-size: 16px;
+    font-weight: bold;}
+.kmh{font-size:10px;
+}
+.cityName{
+	width:100%;
+	color: #0071BC;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 20px;
+	/*text-shadow: 1px 1px #ccc;*/
+	text-align: center;
+	padding-bottom: 6px;
+    -webkit-font-smoothing: antialiased;
+    /*text-shadow: 1px 1px 1px rgba(0,113,188,0.3);*/
+	text-shadow: 2px 2px 1px rgba(153,153,153,0.3);
+	}
+	
+.cityAdv{
+	text-align:center;
+	z-index:1;}
+	.mesoprothesmiHead{text-align:center;
+	background-color:#eee;
+	padding:4px;
+	
+	}
+	.mesoInfo{
+		text-align:center;
+	background-color:#39C;
+	padding:8px;
+		font-size:11px;
+	color:#fff;
+		
+		}
+	.textForecast{
+		font-size:11px;
+		text-align:justify;
+		padding:4px;
+		
+	}
+	
+.mpoforSeas{
+
+	min-width: 60px;
+	max-width: 60px;
+	width: 60px;
+	font-weight:bold;
+	}
+.OuterTableHead{
+
+	color: #0071BC;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:bold;
+	/*text-shadow: 1px 1px #ccc;*/
+	text-align: center;
+
+	-webkit-font-smoothing: antialiased;
+	/*text-shadow: 1px 1px 1px rgba(0,113,188,0.3);*/
+	text-shadow: 0 0 1px rgba(0,113,188,0.3);
+}
+
+.OuterTableHead a{
+
+	color: #0071BC;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:bold;
+	/*text-shadow: 1px 1px #ccc;*/
+	text-align: center;
+text-decoration:none;
+	-webkit-font-smoothing: antialiased;
+	/*text-shadow: 1px 1px 1px rgba(0,113,188,0.3);*/
+	text-shadow: 0 0 1px rgba(0,113,188,0.3);
+}
+
+.OuterTableHeadRight{
+
+	color: #0071BC;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:bold;
+	/*text-shadow: 1px 1px #ccc;*/
+	text-align: right;
+	vertical-align:middle;
+
+	-webkit-font-smoothing: antialiased;
+	/*text-shadow: 1px 1px 1px rgba(0,113,188,0.3);*/
+	text-shadow: 0 0 1px rgba(0,113,188,0.3);
+}
+
+.OuterTableHeadSmall{
+
+	color: #0071BC;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	/*text-shadow: 1px 1px #ccc;*/
+	text-align: left;
+
+	-webkit-font-smoothing: antialiased;
+	/*text-shadow: 1px 1px 1px rgba(0,113,188,0.3);*/
+	text-shadow: 0 0 1px rgba(0,113,188,0.3);
+}
+.OuterTableHeadSmall a{
+
+	color: #039;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	/*text-shadow: 1px 1px #ccc;*/
+	text-align: left;
+text-decoration:none;
+	-webkit-font-smoothing: antialiased;
+	/*text-shadow: 1px 1px 1px rgba(0,113,188,0.3);*/
+	text-shadow: 0 0 1px rgba(0,113,188,0.3);
+}
+
+.OuterTableHeadSmallright{
+
+	color: #0071BC;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+
+	/*text-shadow: 1px 1px #ccc;*/
+	text-align: right;
+
+	
+}
+.OuterTableHeadSmallCenter{
+text-align:center;
+	color: #0071BC;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	/*text-shadow: 1px 1px #ccc;*/
+
+
+	-webkit-font-smoothing: antialiased;
+	/*text-shadow: 1px 1px 1px rgba(0,113,188,0.3);*/
+	text-shadow: 0 0 1px rgba(0,113,188,0.3);
+}
+.OuterTableHeadSmallCenter a{
+text-align:center;
+	color: #039;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	/*text-shadow: 1px 1px #ccc;*/
+
+text-decoration:none;
+	-webkit-font-smoothing: antialiased;
+	/*text-shadow: 1px 1px 1px rgba(0,113,188,0.3);*/
+	text-shadow: 0 0 1px rgba(0,113,188,0.3);
+}
+
+.EventHead{
+
+	color: #0071BC;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight:bold;
+	/*text-shadow: 1px 1px #ccc;*/
+	text-align: center;
+text-decoration:none;
+	-webkit-font-smoothing: antialiased;
+	/*text-shadow: 1px 1px 1px rgba(0,113,188,0.3);*/
+	text-shadow: 0 0 1px rgba(0,113,188,0.3);
+}
+.ftemp{margin-right:2px;}
+
+.meineteSpiti{background-color:#ff0000;
+color:#fff;}
+.kafsonas{background-color:#FF9900;}
+
+.PolyIsxyrosPagetos{background-color:#65fbfb;}
+.IsxyrosPagetos{background-color:#66ccff;}
+.Pagetos{background-color:#3399cc;
+color:#fff;}
+
+.BorderLR{
+background-color: #FF9900;
+    border: 1px solid #000066;
+    color: #000066;
+    font-family: "Century Gothic",Century,"Century Schoolbook";
+    font-size: 12px;
+    font-weight: bold;
+    padding: 3px;
+    text-align: center;
+}
+.Hot{background-color:#66C;
+color:#fff;}
+
+
+
+.sailingTitle{color:#0071bc;
+text-align:center;
+font-size:16px;
+padding:5px;
+font-weight:bold;
+	
+	}
+	
+.sailinginstructions{
+	
+	border:1px solid #CCC;}
+	.GtextB{
+		padding:5px;
+		text-align:center;
+		font-weight:bold;
+		
+		
+		
+		}
+	.instructionsHead{
+	background-color: #999;
+	color: #fff;
+	padding: 5px;
+	margin: 5px;
+}
+.instructions{text-align:justify;
+padding:5px;}
+.Hot2{
+	
+	color: #900;
+	padding: 5px;
+	margin: 5px;	
+	}
+.beaufort
+{margin:5px;
+border:1px solid #CCC;
+	}
+	.velos{
+		margin:5px;
+		text-align:center;
+		font-size:14px;
+		font-weight:bold;}
+		
+		.Gmap {
+	height: 600px;
+	width: 652px;
+	padding:0;
+	border: 1px solid #666666;
+	
+}
+.gmapHead{
+color:#0071bc;
+text-align:center;
+font-size:16px;
+padding:5px;
+font-weight:bold;	
+	
+}
+.stathmoidrop{
+margin:2px;	
+font-size:11px;
+
+	}
+	
+.selectdrop{
+	font-size:12px;
+	background-color:#09F;
+	color:#fff;
+	margin:2px;
+	border:1px solid #FFF;
+	font-weight:bold;
+	padding:4px;
+	
+	}
+.uvinstractions
+{
+width:220px;
+text-align:justify;
+float:right;
+}
+.atticamapinstructions{float:left;
+text-align:justify;
+padding-left:15px;
+width:252px}
+.uvMap{
+float:left;	
+}
+mapUVtab{
+padiing-left:20px;
+}
+.helpHeader{
+text-align:center;
+color:#39F;
+font-weight:bold;
+}
+
+.webcameraThumb{
+	border: 1px solid #CCC;
+	padding: 2px;
+	margin:2px;
+	}
+.roadindex
+{border:1px #CCC solid;}
+.imageEvent
+{border: 1px solid #777777;
+	-webkit-box-shadow: 0 0 5px #666666;
+	-moz-box-shadow: 0 0 5px #666666;
+	box-shadow: 0 0 5px #666666;
+	margin-right:15px;
+	}
+.blueArrow{
+	margin-left:5px;
+	margin-top:3px;
+}
+#youtube{
+	text-align:center;
+	margin:15px;
+	}
+.seamap1{
+	float:left;	
+	}
+	.seamap2{
+	float:left;	
+	}
+.mapprognosisTime{
+font-weight:bold;
+}
+.mapinstructions{float:left;
+padding:8px;
+text-align:justify;
+margin-left:15px;
+width:250px;
+background-color:#CCC;
+border:1px solid #006}
+.europemapinstructions{
+float:left;
+width:140px;
+margin-left:15px;
+font-size:12px;
+text-align:left
+
+}
+.mod1{
+	background-color:#EEEEEE;
+	}
+	.mod0{
+	background-color:#FFF;
+	}
+	.mod2{
+	background-color:#FFF;
+	}
+	.symbolsShowHide {
+    color: #990033;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+}
+.smalltext{
+padding:4px;
+font-size:12px;
+}
+.wavesInfo{float:left;
+text-align:justify;
+width:360px;}
+.wavesinforight{
+	text-align: justify;
+	float: right;
+	width: 270px;
+	padding: 6px;
+	background-color: #E1E1E1;
+	border: 1px solid #333;
+	font-size: 11px;
+}
+
+.tableBG{
+  border: 1px dotted #CCCCCC;
+    color: #0066CC;
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+    font-size: 12px;
+ 
+    text-align: left;
+}
+.TDL1 {
+    border-bottom: 1px dotted #CCCCCC;
+    border-left: 1px dotted #CCCCCC;
+    border-top: 1px dotted #CCCCCC;
+    color: #0066CC;
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    padding: 2px 4px 2px 2px;
+    text-align: right;
+}
+
+.LStattus1 {
+    border-color: #CCCCCC;
+    border-style: dotted dotted dotted none;
+    border-width: 1px 1px 1px medium;
+    color: #339933;
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    padding: 2px;
+}
+.LStattus2 {
+    border-color: #CCCCCC;
+    border-style: dotted dotted dotted none;
+    border-width: 1px 1px 1px medium;
+    color: #FF3333;
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    padding: 2px;
+}
+.LStattus3 {
+    border-bottom: 1px dotted #CCCCCC;
+    border-color: #CCCCCC;
+    border-right: 1px dotted #CCCCCC;
+    border-top: 1px dotted #CCCCCC;
+    color: #FF9933;
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    padding: 2px;
+}
+
+.DailyText {
+    color: #000000;
+    font-family: "Trebuchet MS",Verdana,Tahoma;
+    font-size: 11px;
+    padding: 6px;
+}
+.TabGreyLight {
+    background-color: #E7E7E7;
+    border: 1px solid #CCCCCC;
+    color: #000000;
+    font-family: "Trebuchet MS",Verdana,Tahoma;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 3px;
+    text-align: center;
+}
+
+.smallWhiteC {
+    background-color: #F0F0F0;
+    color: #424242;
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+    font-size: 10px;
+    text-align: left;
+}
+.DailyForecast {
+    background-color: #99CCFF;
+    border: 1px solid #006633;
+    color: #000000;
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 3px;
+    text-align: center;
+}
+.time {
+    color: #CC0066;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 9px;
+}
+.Y46 {
+    background-color: #FF9900;
+    border: 1px solid #FFCC33;
+    color: #FFFFFF;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 9px;
+    font-weight: bold;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.Y45 {
+    background-color: #666666;
+    border: 1px solid #FFCC33;
+    color: #FFFFFF;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 9px;
+    font-weight: bold;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.GtextBorderB {
+    background-color: #DDEAEE;
+    border: 1px dotted #003366;
+    color: #000000;
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+.news {
+    background-color: #FEEFCD;
+    border: 1px dotted #666666;
+    color: #000000;
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    padding: 5px;
+    text-align: justify;
+}
+.Oran1 {
+    background-color: #FFCC00;
+    border: 1px solid #CCCCCC;
+    color: #000000;
+    font-family: "Trebuchet MS",Verdana,Tahoma;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 3px;
+    text-align: left;
+
+}
+.bottomlink {
+	padding:5px;
+	text-align:left;
+	font-size: 12px;
+}
+
+.bottomlink a {
+	text-decoration:none;
+	color:#039;
+}
+.FF1 {
+    background-color: #0071BC;
+    color: #FFFFFF;
+    font-size: 11px;
+    font-weight: bold;
+}
+.FF1 a{
+color: #FFFFFF;	
+text-decoration:none;
+
+}
+.FF1 a:visited{
+color: #FFFFFF;	
+text-decoration:none;
+
+}
+
+.BorderDAILY {
+    background-color: #99CC33;
+    border: 1px solid #006633;
+    color: #000000;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 3px;
+    text-align: center;
+}
+.newsbeast {
+	float: left;
+	width: 170px;
+	margin-top: 0px;
+
+	padding-top: 10px;
+	padding-left: 0px;
+	padding-right: 10px;
+	padding-bottom: 8px;
+	border:1px solid #ccc;
+}
+.ski_info{
+border:1px solid #ccc;
+background-color:#DDEAEE;
+color:#000;
+font:"Trebuchet MS", Arial, Helvetica, sans-serif;
+
+	}
+	
+	.OuterTableHeadPrint{
+
+	color: #0071BC;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:bold;
+	/*text-shadow: 1px 1px #ccc;*/
+	text-align: center;
+
+}
+.cityNamePrint{
+	width:100%;
+	color: #0071BC;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 20px;
+	/*text-shadow: 1px 1px #ccc;*/
+	text-align: center;
+	padding-bottom: 6px;
+
+	}
+.printinfo {
+	padding-top:10px;
+		color: #0071BC;
+	border: 1px solid #B0B0B0;
+	text-align:left;
+	font-size: 12px;
+}
+.validateAlert{
+	float:right;
+background-color:#F00;
+font-size:13px;
+color:#000;
+padding:5px;
+width:250px;
+position:relative;
+margin-top:0px;
+
+margin-bottom:0;
+background-color:#FC0;
+border:2px solid #F00;
+/*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+-moz-box-shadow:0px 0px 4px #000000;
+-webkit-box-shadow:0px 0px 4px #000000;
+box-shadow:0px 0px 4px #000000
+}
+
+.formFieldsContainer{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.formfields{
+border:2px solid #2B462B;
+font-family:"Trebuchet MS",Arial,Helvetica,sans-serif;
+font-size:13px;
+padding:4px;
+-moz-box-shadow:3px 3px 3px #4f4f4f;
+-webkit-box-shadow:3px 3px 3px #4f4f4f;
+box-shadow:3px 3px 3px #4f4f4f;
+background-color:#0071BC;
+float:left;
+width:100%;
+color:#fff;
+margin-bottom:18px;
+max-width:200px
+}
+.formfieldsLong {
+	border: 2px solid #2B462B;
+	font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+	font-size: 13px;
+	padding: 4px;
+	-moz-box-shadow: 3px 3px 3px #4f4f4f;
+	-webkit-box-shadow: 3px 3px 3px #4f4f4f;
+	box-shadow: 3px 3px 3px #4f4f4f;
+	background-color: #0071BC;;
+	float: left;
+	width: 100%;
+	max-width: 380px
+	color:#fff;
+}
+.formfieldsDisabled {
+	border: 2px solid #959595;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	padding: 4px;
+
+	background-color: #E6E6E6;
+	float: left;
+	width: 100%;
+	max-width: 200px;
+	/*color: #FFF;*/
+	opacity:0.5;
+}
+.formfieldsShort{
+border:2px solid #2B462B;
+font-family:"Trebuchet MS",Arial,Helvetica,sans-serif;
+font-size:13px;
+padding:4px;
+-moz-box-shadow:3px 3px 3px #4f4f4f;
+-webkit-box-shadow:3px 3px 3px #4f4f4f;
+box-shadow:3px 3px 8px #4f4f4f;
+background-color:#0071BC;;
+float:left;
+color:#fff;
+width:150px
+}
+.SubmitBtn{
+font-size:14px;
+font-family:"Trebuchet MS",Arial,Helvetica,sans-serif;
+background-color:#0071BC;
+color:#FFF;
+font-weight:normal;
+padding:8px
+}
+label{
+
+cursor:pointer;
+vertical-align:top;
+padding-bottom:9px;
+text-shadow:0 -1px 0 rgba(0,0,0,.2)
+}
+.Flabel{font-size:11px;color:#09C;padding:5px}
+.textmeteo {
+	border: 1px solid #B0B0B0;
+	text-align:left;
+	font-size: 12px;
+	padding:15px;
+}
+
+.maxTopTen{
+border: 1px solid #B0B0B0;
+	text-align:left;
+	font-size: 12px;
+	padding:15px;
+	background:#EFD9B9;	
+	margin-bottom:10px;
+	   box-shadow: 6px 0 12px -4px #818181, -6px 0 12px -4px #818181;
+		-webkit-box-shadow: 6px 0 12px -4px #818181, -6px 0 12px -4px #818181;
+	-moz-box-shadow: 6px 0 12px -4px #818181, -6px 0 12px -4px #818181;
+	box-shadow: 6px 0 12px -4px #818181, -6px 0 12px -4px #818181;
+}
+
+.textmeteo a {
+	text-decoration:none;
+	color:#039;
+}
+
+.textmeteoCenter {
+	border: 1px solid #B0B0B0;
+	text-align:justify;
+	font-size: 12px;
+	padding:15px;
+}
+
+.textmeteoCenter a {
+	text-decoration:none;
+	color:#039;
+}
+
+.bouletinalert{
+	margin-top:15px;
+padding:8px;
+text-align:justify;
+background-color:#9CF;
+border:1px solid #006}
+
+.thanks {
+    border-style: dotted none none;
+    border-top: 1px dotted #333333;
+    color: #666666;
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    margin: 5px;
+    padding: 8px;
+    text-align: justify;
+}
+.DateHead1 {
+	text-align: center;
+	width: 80px;
+	/*border: 1px #B0B0B0 solid;*/
+	font-size:13px;
+	font-weight:bold;
+}
+.innerTableCell1 {
+	border-bottom: 1px solid #B0B0B0;
+	text-align: center;
+	
+}
+
+.innerTableCell1 a {
+	text-decoration:none;
+	color:#039;
+}
+#childDiv{width:381px;
+border:3px #99CCFF solid;
+height:397px;
+
+
+
+overflow:auto;}
+.chancesText{
+	font-size:10px;
+	text-align:center;
+	background-color:#9CC;
+	vertical-align:middle;
+	
+
+}
+.chances{
+	
+	margin:0;}
+	
+	.PhenomenaSpecialTableCell {
+	border: 1px solid #CCC;
+	text-align: center;
+	font-size: 12px;
+	margin:0;
+	padding:0;
+	height:47px;
+	min-height:47px;
+	max-height:47px;
+}
+.PhenomenaSpecialTableCellNoBorder {
+	
+	text-align: center;
+	font-size: 12px;
+	margin:0;
+	padding:0;
+	height:47px;
+	min-height:47px;
+	max-height:47px;
+}
+
+/* cf4  */
+
+.anemosfull{
+width:145px;
+min-width:145px;
+max-width:145px;	
+	
+	}
+	
+	.anemosfullSeas{
+width:155px;	
+min-width:155px;
+max-width:155px;
+	
+	}
+
+.fulltime{
+	width:84px;
+	min-width:84px;
+	max-width:84px;
+	
+	}
+	
+	.fulltimeSeas{
+	width:84px;
+	min-width:84px;
+	max-width:84px;
+	
+	}
+	
+.cellpadding{
+	width:40px;
+	min-width:40px;
+	max-width:40px;
+	padding-left:2px;
+		padding-right:2px;
+	
+
+	}
+
+.phenomenafull {
+	min-width: 200px;
+	max-width: 200px;
+	width: 200px;
+	
+}
+.phenomenafull2 {
+	min-width: 120px;
+	max-width: 120px;
+	width: 120px;
+	
+}
+.stationHead{
+	
+min-width: 150px;
+	max-width: 150px;
+	width: 150px;	
+	}
+.phenomenafullSeas {
+	min-width: 200px;
+	max-width: 200px;
+	width: 200px;
+	
+}
+.ui-datepicker{ z-index: 9999 !important;}
+.newsleft {
+	float: left;
+	/*width: 238px;*/
+	margin-top: 0px;
+	height:390px;
+	max-height:390px;
+	min-height:390px;
+	position:relative;
+	zoom: 1;
+	/*padding-top: 5px;
+	padding-left: 0px;
+	padding-right: 5px;
+	padding-bottom: 5px;*/
+	margin-bottom:15px;
+}
+.openSlopes{
+	background-color: #99CC33;
+    border: 1px solid #006633;
+    color: #000000;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 3px;
+    text-align: center;}
+.orange{
+color:#990000;
+
+}
+
+.station-name {
+		color: #1F527B;
+
+	
+}
+
+.station-temp {
+		font-size:15px;
+	font-weight: bold;
+	
+}
+.station-date {
+		font-size:13px;
+
+	
+}
+.phenomeno-name {
+		color: #1F527B;
+
+	
+}
+.lowtemp{
+color:#06F;	
+	}
+	.hightemp{
+color:#F63;	
+	}
+	.kmhsmall{
+
+	color:#369;
+	
+	font-size: 11px;
+
+}
+.class_12UTC_w{
+	color:#b99015;
+}
+.class_18UTC_w{
+	
+	color:#5c0094;
+}
+.class_00UTC_w{
+	color:#093ca3;
+}
+.class_6UTC_w{
+	color:#1e7edf;
+}
+
+.class_12UTC_s{
+	color:#b99015;
+}
+.class_18UTC_s{
+	
+	color:#5c0094;
+}
+.class_000UTC_s{
+	color:#093ca3;
+}
+.class_6UTC_s{
+	color:#1e7edf;
+}
+.w-blank1{
+	background-image: url(../slices/w-blank1.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+		font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	text-decoration: none;
+	text-align:center;	
+	width:34px;
+	height:38px;	
+}
+.w-cold{
+	background-image: url(../slices/w-cold.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+		font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	text-decoration: none;
+	text-align:center;	
+	width:34px;
+	height:38px;	
+}
+.w-hot{
+	background-image: url(../slices/w-hot.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+		font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	text-decoration: none;
+	text-align:center;	
+	width:34px;
+	height:38px;	
+}
+.w-veryhot{
+	background-image: url(../slices/w-veryHot.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+		font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	text-decoration: none;
+	text-align:center;	
+	width:34px;
+	height:38px;	
+}
+.w-extremeHot{
+	background-image: url(../slices/w-extremeHot.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+		font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	text-decoration: none;
+	text-align:center;	
+	width:34px;
+	height:38px;	
+}
+.w-observation-rain{
+	background-image: url(../slices/w-observation-rain.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+		font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	text-decoration: none;
+	text-align:center;	
+	width:34px;
+	height:38px;	
+}
+.w-observation-snow{
+	background-image: url(../slices/w-observation-snow.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+		font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	text-decoration: none;
+	text-align:center;	
+	width:34px;
+	height:38px;	
+}
+.w-observation-storm{
+	background-image: url(../slices/w-storm.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+		font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	text-decoration: none;
+	text-align:center;	
+	width:34px;
+	height:38px;	
+}
+
+.w-verycold{
+	background-image: url(../slices/w-verycold.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+		font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	text-decoration: none;
+	text-align:center;	
+	width:34px;
+	height:38px;	
+}
+.phonetic {
+	
+    background-color: #DDEAEE;
+    border: 1px solid #ccc;
+    color: #000000;
+    font-size: 12px;
+    padding-top: 15px;
+	padding-left:5px;
+	padding-right:5px;
+	padding-bottom:5px;
+    text-align: justify;
+}
+.phonetic p:first-of-type:first-letter{
+	  color: #990000;
+    font-size: 24px;
+    font-weight: bold;
+	}
+.sailflash{margin-top:4px;
+padding:5px;
+  border: 1px solid #ccc;
+      background-color: #6FF;
+	  text-align:center;
+  
+}
+.cfAdds{
+	margin-top:10px;
+	margin-bottom:10px;}
+.cfAddright{
+	float:right;
+	margin-left:10px;
+	margin-right:20px;
+	
+}
+.cfAddleft{
+	
+float:left;
+margin-right:10px;
+margin-left:20px;
+}
+
+.subdateLeft{
+	padding-left:5px;
+	padding-right:5px;
+	margin-top:5px;
+	margin-bottom:5px;	
+	text-align:left;
+	font-size: 9px;
+	color: #666;}
+	
+		li.ui-state-default a#ui-id-2.dust{
+	
+		background-color:#F93;
+		color:#000;
+		 }
+	li.ui-state-hover a#ui-id-2.dust
+{
+		background-color:#F93;
+		color:#FFF;
+	}
+	li.ui-state-active a#ui-id-2.dust
+{background: #545454; url(images/ui-bg_flat_100_1C94C4_40x100.png) 50% 50% repeat-x;
+
+		color:#FFF;
+	}
+	
+	.maxtemp{
+	background-image: url(../graphics/dynamic/1/otherIndicators/highSmall.png);
+	background-repeat: no-repeat;
+	background-position: right top;		
+		
+		}
