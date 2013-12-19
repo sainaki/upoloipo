@@ -47,12 +47,12 @@ mb_per_day = account_balance/remaining_days
 puts "Το υπόλοιπο των mb είναι #{account_balance}"
 puts "Κατανάλωση ανά ημέρα #{mb_per_day}mb"
 
-page = Nokogiri::HTML(open("http://www.meteo.gr/meteoplus/cf.cfm?city_id=1"))   
+page = Nokogiri::HTML(open("http://services.vodafone.gr/services/myvmb/landing.action?null"))   
 #puts page.class  
 
-timi=page.css('.station-temp').text
+timi=page.css('#cms2309').css("span").text
 
-#puts timi.slice(/\d+/)
+puts timi.slice(/\d+/)
 
 
 
