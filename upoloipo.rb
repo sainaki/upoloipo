@@ -2,7 +2,11 @@ require 'rubygems'
 require 'nokogiri'   
 require 'open-uri'
 
+
+
 class Upoloipo
+
+
 
 today = Time.new
 expiry_day = 13
@@ -38,15 +42,17 @@ else
 	puts "Απομένουν #{remaining_days} μέρες"
 end
 
+mb_per_day = account_balance/remaining_days
 
-
+puts "Το υπόλοιπο των mb είναι #{account_balance}"
+puts "Κατανάλωση ανά ημέρα #{mb_per_day}mb"
 
 page = Nokogiri::HTML(open("http://www.meteo.gr/meteoplus/cf.cfm?city_id=1"))   
-puts page.class  
+#puts page.class  
 
 timi=page.css('.station-temp').text
 
-puts timi.slice(/\d+/)
+#puts timi.slice(/\d+/)
 
 
 
