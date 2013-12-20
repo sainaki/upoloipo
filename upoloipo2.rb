@@ -15,11 +15,15 @@ class Upoloipo
 	today_day=today.day.to_i
 	today_month=today.month.to_i
 
+
 	if today_month < 12
 		expiry_month = today_month + 1
 	else
 		expiry_month = 1	
 	end 
+
+	puts "SHMERA EXOYME #{today_day}/#{today_month}"
+	puts "HMEROMHNIA ANANEWSHS INTERNET #{expiry_day}/#{expiry_month}"
 
 	if expiry_month == today_month
 
@@ -41,8 +45,6 @@ class Upoloipo
 
 	mb_per_day = account_balance.slice(/\d+/).to_i/remaining_days
 
-	puts "SHMERA EXOYME #{today_day}/#{today_month}"
-	puts "HMEROMHNIA ANANEWSHS INTERNET #{expiry_day}/#{expiry_month}"
 	puts "YPOLOIPO #{account_balance.slice(/\d+/)} MB"
 	puts "KATANALWSH #{mb_per_day} MB ANA HMERA"
 
