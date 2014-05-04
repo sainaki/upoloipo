@@ -1,11 +1,11 @@
 require 'rubygems'
-require 'nokogiri'   
+require 'nokogiri'
 require 'open-uri'
 require './check'
 
 a=Check.new
 
-page = Nokogiri::HTML(open("http://services.vodafone.gr/services/myvmb/landing.action?null"))   
+page = Nokogiri::HTML(open("http://services.vodafone.gr/services/myvmb/landing.action?null"))
 account_balance=page.css('.text_content_18_b').text
 
 today = Time.new
@@ -14,11 +14,11 @@ today_day=today.day
 today_month=today.month
 
 
-if today_month.to_i < 12
-	expiry_month = today_month.to_i + 1
+if today_day.to_i < 12
+	expiry_month = today_month
 else
-	expiry_month = 1	
-end 
+	expiry_month = today_month.to_i + 1
+end
 
 puts "ΣΗΜΕΡΑ ΕΧΟΥΜΕ #{today_day}/#{today_month}"
 puts "ΗΜΕΡΟΜΗΝΙΑ ΑΝΑΝΕΩΣΗΣ ΙΝΤΕΡΝΕΤ #{expiry_day}/#{expiry_month}"
