@@ -5,7 +5,7 @@ class Check
 			remaining_days = expiry_day.to_i - today_day.to_i + 1
 			puts "ΑΠΟΜΕΝΟΥΝ #{remaining_days} ΜΕΡΕΣ"
 		else
-			case expiry_month.to_i
+			case today_month.to_i
 				when 1, 3, 5, 7, 8, 10, 12
 					remaining_days = 31 - today_day.to_i + 1 + 13
 				when 2
