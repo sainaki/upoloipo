@@ -2,7 +2,7 @@
 class Check
 	def check_month(expiry_day,today_day,expiry_month,today_month)
 		if expiry_month.to_i == today_month.to_i
-			remaining_days = expiry_day.to_i - today_day.to_i + 1
+			remaining_days = expiry_day.to_i - today_day.to_i
 			puts "ΑΠΟΜΕΝΟΥΝ #{remaining_days} ΜΕΡΕΣ"
 		else
 			case today_month.to_i
@@ -13,7 +13,7 @@ class Check
 				else
 					remaining_days = 30 - today_day.to_i + 1 + 13
 			end
-			puts "ΑΠΟΜΕΝΟΥΝ #{remaining_days} ΜΕΡΕΣ"
+			puts "ΑΠΟΜΕΝΟΥΝ #{remaining_days}  ΗΜΕΡΕΣ"
 		end
 		return remaining_days
 	end

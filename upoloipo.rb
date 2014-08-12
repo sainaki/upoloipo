@@ -14,7 +14,7 @@ today_day=today.day
 today_month=today.month
 
 
-if today_day.to_i < 12
+if today_day.to_i <= 12
 	expiry_month = today_month
 else
 	expiry_month = today_month.to_i + 1
